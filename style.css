@@ -22,9 +22,13 @@
 }
 .logo{
 	height: 250px;
-    width: 1180px;
+    width:auto;
     
     float: right;
+}
+.logo h2{
+	font-size:15px;
+	color:white;
 }
 .pro{
 	height: 200px;
