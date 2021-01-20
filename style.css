@@ -1,0 +1,281 @@
+*{
+	margin:0;
+	padding: 0;
+	font-family: 'Lato', sans-serif;
+	
+}
+.header{
+    height: 250px;
+    width: 100%;
+    
+    
+}
+.photo{
+	 height: 250px;
+    width: 400px;
+    
+    float: left;
+}
+.logo{
+	height: 250px;
+    width: 1180px;
+    
+    float: right;
+}
+.pro{
+	height: 200px;
+	width: 300px;
+	margin-top: 20px;
+	margin-left: 40px;
+	border-radius: 45%;
+}
+.pro:hover {
+    opacity: 0.7;
+}
+
+
+.shiva{
+	
+	font-size: 300%;
+	margin-top: 130px;
+}
+.designation{
+	font: 15px Arial, sans-serif;
+	font-size: 150%;
+	margin-right: 50px;
+}
+.main{
+	height:700px;
+	width: 100%;
+	background-color: pink;
+}
+.left{
+	height:600px;
+	width:49%;
+	background-color: black;
+	float: left;
+}
+.line{
+	height:500px;
+	width: 10px;
+	background-color: yellow;
+	margin-left: 785px;
+	margin-top: 50px;
+
+}
+
+.right{
+	height:600px;
+	width:49%;
+	background-color: gray;
+	float: right;
+}
+.footer{
+	height: 100px;
+    width: 100%;
+    background-color: red;
+    margin-top: 0px;
+}
+.bottom{
+	height: 100px;
+    width: 100%;
+    background-color: green;
+}
+.fa {
+  padding: 20px;
+  font-size: 30px;
+  width: 30px;
+  text-align: center;
+  text-decoration: none;
+  margin: 5px 2px;
+  border-radius: 50%;
+  float: right;
+  margin-top: -70px;
+  margin-right: 20px;
+}
+
+.fa:hover {
+    opacity: 0.7;
+}
+.fa-facebook {
+	
+  background: #3B5998;
+  color: white;
+}
+
+.fa-twitter {
+  background: #55ACEE;
+  color: white;
+}
+.fa-instagram {
+  background: #125688;
+  color: white;
+}
+
+.main{
+	height: 2250px;
+	width: 100%;
+	background-color: #58D68D;
+	position: relative;
+	background-image: url(bgimg.png);
+	background-size: cover;
+	
+}
+.one{
+	height: 400px;
+	width: 500px;
+	background-color: white;
+	position: relative;
+	top: 5%;
+	left: 35%;
+	 border: 2px solid black;
+}
+.two{
+	height: 300px;
+	width: 500px;
+	background-color: white;
+	position: relative;
+	top: 10%;
+	left: 35%;
+	 border: 2px solid black;
+    border-radius: 0px;
+	
+}
+.tech{
+	height:50px;
+	width:500px;
+	background-color: gray;
+	 border-radius: 10px;
+}
+.three{
+	height: 520px;
+	width: 500px;
+	background-color: white;
+	position: relative;
+	top: 15%;
+	left: 35%;
+	border: 1px solid black;
+}
+.four{
+	height: 375px;
+	width: 500px;
+	background-color: white;
+	position: relative;
+	top: 20%;
+	left: 35%;
+	 border: 2px solid black;
+    border-radius: 0px;
+}
+
+h1{
+	 border-left: 22px solid #58D68D;
+	 border-top: 12px solid #F4F6F6;
+	background-color: #F4F6F6;
+	height: 50px;
+	border-radius: 0px; 
+	
+}
+h2{
+	margin-top:20px;
+	margin-left:20px;
+}
+#file{
+	height:30px;
+	width:300px;
+}
+h3{
+  border-left: 22px solid #00bfff;
+  border-top: 8px solid #F4F6F6; 
+  background-color: #F4F6F6;
+  height: 30px;
+  width: 300px;
+  border-radius: 0px; 
+}
+h4{
+	border-left: 22px solid #00bfff;
+  border-top: 8px solid #F4F6F6; 
+  background-color: #F4F6F6;
+  height: 30px;
+  width: 140px;
+  border-radius: 0px; 
+  display: inline-block;
+  
+}
+.aa{
+	float: right;
+	margin-right: 135px;
+	border-top: 8px solid white; 
+	
+	height: 30px;
+	width: 200px;
+	}
+.bb{
+	float: right;
+	margin-right: 135px;
+	border-top: 8px solid white; 
+	
+	height: 30px;
+	width: 200px;
+}
+.cc{
+	float: right;
+	margin-right: 135px;
+	border-top: 8px solid white; 
+	
+	height: 30px;
+	width: 200px;
+}
+.dd{
+	float: right;
+	margin-right: 135px;
+	border-top: 8px solid white; 
+	background-color: ;
+	height: 30px;
+	width: 200px;
+}
+.ee{
+	float: right;
+	margin-right: 135px;
+	border-top: 8px solid white; 
+	background-color: white;
+	height: 30px;
+	width: 200px;
+}
+.foter{
+	height: 200px;
+	width: 100%;
+	background-color: #58D68D;
+	position: relative;
+}
+.inadd{
+	height:150px;
+	width: 500px;	
+	position: relative;
+	top: 20%;
+	left: 3%;
+	background-color: #58D68D;	
+}
+
+.add{
+	margin-left:160px;
+}
+.contact{
+	   
+	  background-color: #58D68D;
+	  height: 30px;
+	  width: 200px;
+	  float: right;
+	  display: inline-block;
+	  margin-top: -110px;
+	  margin-right: 240px;
+}
+.mail{
+	 
+	  background-color: #58D68D;
+	  height: 50px;
+	  width: 200px;
+	  float: right;
+	  display: inline-block;
+	  margin-top: -60px;
+	  margin-right: 55px;
+}
